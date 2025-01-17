@@ -9,4 +9,6 @@
 
 ## 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/nUUei78.gif](https://i.imgur.com/nUUei78.gif">
-🔭 I’m currently working on https://mrkodobay.ctfd.io/ <br>🌱 I’m currently learning Rsyslog aggregation <br>💬 Ask me about Osint, Cybersecurity<br>📫 How to reach me: You know how to find this 😄
+🔭 I’m currently working on https://mrkodobay.ctfd.io/ <br>🌱 I’m currently learning Rsyslog aggregation <br>💬 Ask me about Osint, Cybersecurity<br>
+🔎 Proud member of Les Mercenaires d'Oz 🔍<br>
+📫 How to reach me: You know how to find this 😄
